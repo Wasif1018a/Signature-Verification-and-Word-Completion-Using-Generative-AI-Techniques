@@ -94,11 +94,11 @@ A public link will be generated automatically.
 
 * [Signature Verification Dataset]
 
-   ℹ️ Download & info: [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.kaggle.com/datasets/robinreni/signature-verification-dataset)
+   ℹ️ Kaggle link: (https://www.kaggle.com/datasets/robinreni/signature-verification-dataset)
 
 * [Shakespeare Plays Dataset]
 
-   ℹ️ Kaggle link: [https://www.kaggle.com/datasets/almightyj/person-face-sketches](https://www.kaggle.com/datasets/kingburrito666/shakespeare-plays)
+   ℹ️ Kaggle link: (https://www.kaggle.com/datasets/kingburrito666/shakespeare-plays)
 
 ---
 
