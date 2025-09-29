@@ -58,22 +58,35 @@ Everything (data preprocessing, model building, training, evaluation, visualizat
 
 ---
 
-## 🚀 How to Run
+## ▶️ Running the Project
 
-1. Open **`main.ipynb`** in Jupyter / Colab / Kaggle.
-2. Run preprocessing + training cells for either:
+Clone and install requirements:
 
-   * **Signature Verification (CNN / HOG+SVM)**
-   * **Word Completion (LSTM)**
-3. To launch the **interactive word completion app**:
+```bash
+git clone <repo-link>
+cd <repo-name>
+```
 
-   * Scroll to the **last cell** of the notebook
-   * Makesure to get the authtoken from ngrok and add it in the cell:
-     ```bash
-     !ngrok authtoken <your_token>
-     ```
-   * Run the cells → An **ngrok link** will be generated
-   * Open the link in your browser to use the app
+Open the notebook in Jupyter, Colab, or Kaggle (with T4 GPU enabled):
+
+```bash
+jupyter notebook main.ipynb
+```
+
+Run the cells sequentially to preprocess data, train and test the models, and view the evaluations.
+
+### Streamlit + ngrok Demo
+
+At the **last cell** of the notebook, a **Streamlit app** is included. Running only that cell will launch the demo:
+
+with **ngrok**:
+
+```bash
+!ngrok authtoken <your_token>
+!streamlit run streamlit_app.py --server.port 8000
+```
+
+A public link will be generated automatically.
 
 ---
 
