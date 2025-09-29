@@ -77,7 +77,7 @@ Run the cells sequentially to preprocess data, train and test the models, and vi
 
 ### Streamlit + ngrok Demo
 
-At the **last cell** of the notebook, a **Streamlit app** is included for the second task. Running only that cell will launch the demo:
+A **Streamlit app** is included at the end for the second task. Running only that cell will launch the demo:
 
 with **ngrok**:
 
