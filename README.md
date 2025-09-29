@@ -72,7 +72,7 @@ Everything (data preprocessing, model building, training, evaluation, visualizat
      ```bash
      !ngrok authtoken <your_token>
      ```
-   * Run it → An **ngrok link** will be generated
+   * Run the cells → An **ngrok link** will be generated
    * Open the link in your browser to use the app
 
 ---
