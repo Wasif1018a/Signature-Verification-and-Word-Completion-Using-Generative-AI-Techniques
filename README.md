@@ -92,8 +92,13 @@ A public link will be generated automatically.
 
 ## 📂 Datasets Used
 
-* [Signature Verification Dataset](https://www.kaggle.com/datasets/robinreni/signature-verification-dataset)
-* [Shakespeare Plays Dataset](https://www.kaggle.com/datasets/kingburrito666/shakespeare-plays)
+* [Signature Verification Dataset]
+
+ℹ️ Download & info: [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.kaggle.com/datasets/robinreni/signature-verification-dataset)
+
+* [Shakespeare Plays Dataset]
+
+ℹ️ Kaggle link: [https://www.kaggle.com/datasets/almightyj/person-face-sketches](https://www.kaggle.com/datasets/kingburrito666/shakespeare-plays)
 
 ---
 
