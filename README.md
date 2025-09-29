@@ -68,6 +68,9 @@ Everything (data preprocessing, model building, training, evaluation, visualizat
 3. To launch the **interactive word completion app**:
 
    * Scroll to the **last cell** of the notebook
+   * Makesure to get the authtoken from ngrok and add in the cell in place of abc:
+     ```python
+     ngrok authtoken abc
    * Run it → An **ngrok link** will be generated
    * Open the link in your browser to use the app
 
